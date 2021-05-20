@@ -1,26 +1,31 @@
 {
   "events": [
     {
+      "id": "1",
       "banner": "https://i0.wp.com/www.rockdeverdade.com.br/wp-content/uploads/2014/12/ghost-bc.jpg",
       "maximumAttendeeCapacity": 200,
       "name": "Ghost"
     },
     {
+      "id": "2",
       "banner": "yellow",
       "maximumAttendeeCapacity": 2000,
       "name": "Velório do MC Kevin"
     },
     {
+      "id": "3",
       "banner": "https://bebemamae.com/wp-content/uploads/2021/05/ivete-sangalo-gemeas-porta-retratos.webp",
       "maximumAttendeeCapacity": 150,
       "name": "Ivete Sangalo"
     },
     {
+      "id": "4",
       "banner": "blue",
       "maximumAttendeeCapacity": 200,
       "name": "Pôquer com Gabigol"
     },
     {
+      "id": "5",
       "banner": "pink",
       "maximumAttendeeCapacity": 30,
       "name": "Fim de Berserk"
