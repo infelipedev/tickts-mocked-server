@@ -8,7 +8,6 @@
     },
     {
       "id": "2",
-      "image": "yellow",
       "maximumAttendeeCapacity": 2000,
       "name": "Velório do MC Kevin"
     },
@@ -20,13 +19,11 @@
     },
     {
       "id": "4",
-      "image": "blue",
       "maximumAttendeeCapacity": 200,
       "name": "Pôquer com Gabigol"
     },
     {
       "id": "5",
-      "image": "pink",
       "maximumAttendeeCapacity": 30,
       "name": "Fim de Berserk"
     }
