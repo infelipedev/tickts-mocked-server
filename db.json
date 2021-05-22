@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "1",
-      "image": "https://i0.wp.com/www.rockdeverdade.com.br/wp-content/uploads/2014/12/ghost-bc.jpg",
+      "banner": "https://i0.wp.com/www.rockdeverdade.com.br/wp-content/uploads/2014/12/ghost-bc.jpg",
       "maximumAttendeeCapacity": 200,
       "name": "Ghost"
     },
@@ -13,7 +13,7 @@
     },
     {
       "id": "3",
-      "image": "https://bebemamae.com/wp-content/uploads/2021/05/ivete-sangalo-gemeas-porta-retratos.webp",
+      "banner": "https://bebemamae.com/wp-content/uploads/2021/05/ivete-sangalo-gemeas-porta-retratos.webp",
       "maximumAttendeeCapacity": 150,
       "name": "Ivete Sangalo"
     },
