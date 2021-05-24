@@ -4,28 +4,33 @@
       "id": "1",
       "banner": "https://i0.wp.com/www.rockdeverdade.com.br/wp-content/uploads/2014/12/ghost-bc.jpg",
       "maximumAttendeeCapacity": 200,
-      "name": "Ghost"
+      "name": "Ghost",
+      "remainingAttendeeCapacity": 150
     },
     {
       "id": "2",
       "maximumAttendeeCapacity": 2000,
-      "name": "Velório do MC Kevin"
+      "name": "Velório do MC Kevin",
+      "remainingAttendeeCapacity": 0
     },
     {
       "id": "3",
       "banner": "https://bebemamae.com/wp-content/uploads/2021/05/ivete-sangalo-gemeas-porta-retratos.webp",
       "maximumAttendeeCapacity": 150,
-      "name": "Ivete Sangalo"
+      "name": "Ivete Sangalo",
+      "remainingAttendeeCapacity": 10
     },
     {
       "id": "4",
       "maximumAttendeeCapacity": 200,
-      "name": "Pôquer com Gabigol"
+      "name": "Pôquer com Gabigol",
+      "remainingAttendeeCapacity": 60
     },
     {
       "id": "5",
       "maximumAttendeeCapacity": 30,
-      "name": "Fim de Berserk"
+      "name": "Fim de Berserk",
+      "remainingAttendeeCapacity": 50
     }
   ]
 }
